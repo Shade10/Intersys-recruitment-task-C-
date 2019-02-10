@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DigitSum.cs" />
     <Compile Include="ExistingPowersOfTwo.cs" />
     <Compile Include="FindingPrimes.cs" />
     <Compile Include="Palindrome.cs" />

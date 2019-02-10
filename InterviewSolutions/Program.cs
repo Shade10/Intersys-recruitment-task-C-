@@ -1,4 +1,7 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
@@ -11,8 +14,7 @@ namespace InterviewSolutions {
             //Permutation permutation = new Permutation();
             //ExistingPowersOfTwo existingPowersOfTwo = new ExistingPowersOfTwo();
             //FindingPrimes findingPrimes = new FindingPrimes();
-
-            DigitSum commonDigit = new DigitSum();
+            //DigitSum commonDigit = new DigitSum();
 
 
         }
